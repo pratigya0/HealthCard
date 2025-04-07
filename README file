@@ -1,0 +1,12 @@
+# HealthCard
+
+A Django-based healthcare management system to store, access, and regulate medicine sales through digital health cards.
+
+## Features
+- User authentication
+- Medicine tracking
+- Admin panel for data management
+
+## Setup Instructions
+
+1. Clone the repository:
