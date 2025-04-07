@@ -1,17 +1,41 @@
-# 🩺 HealthCard
+🩺 HealthCard
+"A Django-based web application for managing and verifying digital health cards."
+📊 Smart healthcare management with authentication & medicine tracking.
 
-A Django-based healthcare web application that helps manage and regulate medicine sales and user health records.
+📸 Screenshots
+Homepage	Medicine Details	Admin Dashboard	Add Medicine
 
----
+🔧 Features
+👤 User Registration/Login
 
-## 🌟 Features
+🧾 Digital Health Card Verification
 
-- 🧾 Digital health card system
-- 🔒 User authentication (login/register)
-- 🏥 Add and view patient details
-- 💊 Medicine history tracking
-- 📊 Admin dashboard for monitoring
-- 🌐 Built with Django + SQLite
+💊 Medicine Inventory & Sales Tracking
+
+🛡️ Admin Dashboard
+
+📁 SQLite Database Integration
+
+🚀 Tech Stack
+Python & Django
+
+HTML/CSS
+
+Bootstrap
+
+SQLite
+
+JavaScript
+
+HealthCard/
+│
+├── health/               # Django app
+├── HealthCard/           # Project config
+├── media/                # Uploaded files
+├── screenshots/          # UI images
+├── db.sqlite3            # Database
+├── manage.py             # Entrypoint
+└── requirements.txt      # Dependencies
 
 ---
 
@@ -40,23 +64,18 @@ python manage.py runserver
 
 🏠 Dashboard
 
-🛠️ Tech Stack
-Django
-
-SQLite3
-
-HTML, CSS, JavaScript
-
-Bootstrap
-
-Python
-
 🙋‍♀️ Author
 👩‍💻 Pratigya
 Passionate about Data Science & Web Development 💙
 
 📄 License
 This project is licensed under the MIT License.
+
+
+## 📸 Screenshots
+
+![Login Page](screenshots/Screenshot%202025-04-07%20140008.png)
+![Admin Dashboard](screenshots/Screenshot%202025-04-07%20140348.png)
 
 
 
