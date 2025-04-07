@@ -1,12 +1,62 @@
-# HealthCard
+# 🩺 HealthCard
 
-A Django-based healthcare management system to store, access, and regulate medicine sales through digital health cards.
+A Django-based healthcare web application that helps manage and regulate medicine sales and user health records.
 
-## Features
-- User authentication
-- Medicine tracking
-- Admin panel for data management
+---
 
-## Setup Instructions
+## 🌟 Features
 
-1. Clone the repository:
+- 🧾 Digital health card system
+- 🔒 User authentication (login/register)
+- 🏥 Add and view patient details
+- 💊 Medicine history tracking
+- 📊 Admin dashboard for monitoring
+- 🌐 Built with Django + SQLite
+
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR-USERNAME/HealthCard.git
+cd HealthCard
+
+# Create virtual environment
+python -m venv env
+env\Scripts\activate  # On Windows
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run migrations
+python manage.py migrate
+
+# Start the server
+python manage.py runserver
+
+📸 Screenshots
+🔐 Login Page
+
+🏠 Dashboard
+
+🛠️ Tech Stack
+Django
+
+SQLite3
+
+HTML, CSS, JavaScript
+
+Bootstrap
+
+Python
+
+🙋‍♀️ Author
+👩‍💻 Pratigya
+Passionate about Data Science & Web Development 💙
+
+📄 License
+This project is licensed under the MIT License.
+
+
+
